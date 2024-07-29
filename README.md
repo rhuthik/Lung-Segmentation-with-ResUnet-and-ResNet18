@@ -1,1 +1,1 @@
-# Distributed_IOT_Platform
+# Lung Segmentation with ResUnet
