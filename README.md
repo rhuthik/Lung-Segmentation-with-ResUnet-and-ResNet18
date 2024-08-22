@@ -2,9 +2,9 @@
 
 This project focuses on accurately segmenting lungs from CT scans using deep learning techniques. We utilize a dataset of 45 lung CT scans with varying numbers of slices and corresponding labels for trachea, left lung, and right lung (combined into a single lung label).
 
-## Link to the Dataset with Labels:
-
-
+## Link to the Dataset with Labels and Model:
+[Dataset Link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/rhuthik_p_research_iiit_ac_in/Ed7q7aRERb1LgIO_GZVYbPMBKTaA5ktM_ypFVgbTOHlTwQ?e=lTv9c9)
+[Best model](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/rhuthik_p_research_iiit_ac_in/EeG15KyNlFxAr1xuJr3B45kB_nLQB9f8-dYbDfS7xJy1Hw?e=lEonlx)
 ## Project Overview
 
 Our approach involves:
