@@ -47,3 +47,7 @@ We conducted experiments with different ResNet-based models and loss function va
 Our best model (Res18 BCE) slightly outperforms the lungmask tool:
 - Lungmask (U-net(R231)) Dice Score: 0.952
 - Our Best Model (Res18 BCE) Dice Score: 0.957
+
+## Sample Visualization:
+![Screenshot 2024-08-22 202238](https://github.com/user-attachments/assets/d418cec7-1b74-4884-b22e-ef9699a4cd95)
+
